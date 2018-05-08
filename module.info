@@ -1,0 +1,5 @@
+Name: Extragroups
+Version: v1.0.0
+Description: Extragroups - Rule-based group membership
+ This module provides an `UserGroupBackend` implementation for Icinga
+ Web 2. It allows to assign additional groups based on custom rules.
