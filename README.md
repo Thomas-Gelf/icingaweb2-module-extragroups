@@ -141,7 +141,7 @@ add_groups = "Nagstamon Local"
 ```
 
 Please note that the `group` property filter sees only groups assigned via
-former groups. Groups memberships provided by other group backends are not
+former rules. Groups memberships provided by other group backends are not
 accessible.
 
 That's it for now, have fun!
