@@ -114,7 +114,7 @@ add_groups = "Special Group, {REMOTE_GROUPS}, {HTTP_AUTHZ_GROUPS}"
 
 ### Rules based on group membership
 
-Your `user_filter` allows to filter based on group membership. Let's immagine
+Your `user_filter` allows to filter based on group membership. Let's imagine
 that every user should get a list of additional groups via `HTTP_AUTHZ_GROUPS`.
 Well, everybody but the `guest` and the `admin` user.
 
