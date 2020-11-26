@@ -145,3 +145,14 @@ former rules. Groups memberships provided by other group backends are not
 accessible.
 
 That's it for now, have fun!
+
+Changes
+-------
+
+### v1.0.1
+
+Fixes typos in our documentation
+
+### v1.0.0
+
+First stable release
